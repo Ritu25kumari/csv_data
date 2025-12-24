@@ -29,13 +29,3 @@ id,name,age,salary,role,location,image
 28,Rekha,24,28000,Software Analyst,Delhi,https://randomuser.me/api/portraits/women/37.jpg
 29,Divya,25,29000,Android Developer,Bangalore,https://randomuser.me/api/portraits/women/38.jpg
 30,Seema,22,23000,Trainee Engineer,Sikar,https://randomuser.me/api/portraits/women/39.jpg
-21,Ankita,24,27000,Flutter Developer,Bhopal,https://randomuser.me/api/portraits/women/30.jpg
-22,Rashika,23,26000,Frontend Developer,Indore,https://randomuser.me/api/portraits/women/31.jpg
-23,Smita,25,30000,Full Stack Developer,Nagpur,https://randomuser.me/api/portraits/women/32.jpg
-24,Neelam,22,22000,UI Designer,Kota,https://randomuser.me/api/portraits/women/33.jpg
-25,Deepa,26,32000,Backend Engineer,Hyderabad,https://randomuser.me/api/portraits/women/34.jpg
-26,Sonia,21,21000,Junior Tester,Hisar,https://randomuser.me/api/portraits/women/35.jpg
-27,Shreya,23,24000,Mobile App Developer,Jaipur,https://randomuser.me/api/portraits/women/36.jpg
-28,Rekha,24,28000,Software Analyst,Delhi,https://randomuser.me/api/portraits/women/37.jpg
-29,Divya,25,29000,Android Developer,Bangalore,https://randomuser.me/api/portraits/women/38.jpg
-30,Seema,22,23000,Trainee Engineer,Sikar,https://randomuser.me/api/portraits/women/39.jpg
