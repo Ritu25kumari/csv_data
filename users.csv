@@ -34,6 +34,3 @@ id,name,age,salary,role,location,image
 3,Pooja,22,22000,UI Designer,Indore,https://randomuser.me/api/portraits/women/12.jpg
 4,Neha,25,30000,Android Developer,Noida,https://randomuser.me/api/portraits/women/13.jpg
 5,Kajal,21,20000,Trainee Developer,Ajmer,https://randomuser.me/api/portraits/women/14.jpg
-6,Simran,26,32000,Backend Developer,Chandigarh,https://randomuser.me/api/portraits/women/15.jpg
-7,Monika,24,27000,QA Engineer,Gurgaon,https://randomuser.me/api/portraits/women/16.jpg
-8,Preeti,23,26000,Frontend Developer,Jaipur,https://randomuser.me/api/portraits/women/17.jpg
